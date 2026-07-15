@@ -1,6 +1,7 @@
 public class DetalleProducto {
     public static void main(String[] args) {
         String nombreProducto="Latitas Nupec";
+
         double precio = 10.50;
         int cantidadDisponible=1;
         boolean isDisponible = true;
