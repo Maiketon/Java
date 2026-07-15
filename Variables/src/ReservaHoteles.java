@@ -7,7 +7,7 @@ public class ReservaHoteles {
 
         var nombreCliente ="Miguel Montoya";
         var diasEstancia = 7;
-        var tarifaDiaria= 1300.00:
+        var tarifaDiaria= 1300.00;
         var tieneVistaMar =true;
 
         //////////////////////////////////////////////////
@@ -20,7 +20,7 @@ public class ReservaHoteles {
         diasEstancia=5;
         tarifaDiaria=900.00;
         tieneVistaMar=false;
-        
+
 
 
 
