@@ -1,0 +1,11 @@
+public class ConcatenacionCadenas {
+    public static void main(String[] args) {
+        System.out.println("Concatenacion de Cadenas");
+        var nombre="Alexa";
+        var apellido="Cruz";
+        var nombreCompleto= nombre+apellido;
+        System.out.println("nombreCompleto = " + nombreCompleto);
+    // Agregando el espacio
+        System.out.println(nombre + " "+ apellido);
+    }
+}
